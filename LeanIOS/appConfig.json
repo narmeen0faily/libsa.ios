@@ -1,0 +1,636 @@
+{
+  "general": {
+    "screenOrientation": {
+      "iphone": null,
+      "ipad": null,
+      "androidPhone": null,
+      "androidTablet": null
+    },
+    "userAgentRegexes": [],
+    "replaceStrings": [],
+    "nativeBridgeUrls": [],
+    "languages": [],
+    "userAgentAdd": "gonative",
+    "enableWindowOpen": true,
+    "forceUserAgent": "",
+    "publicKey": "lyoyaj",
+    "deviceRegKey": "qpdk9r0km1qummfjg7pwzwucpr",
+    "appName": "لبسة – Libsa",
+    "initialUrl": "https://libsa.store",
+    "iosBundleId": "io.gonative.ios.lyoyaj",
+    "androidPackageName": "io.gonative.android.lyoyaj",
+    "iosUserAgentAdd": "Libsa",
+    "androidUserAgentAdd": "Libsa",
+    "androidForceUserAgent": "",
+    "iosForceUserAgent": "",
+    "iosCustomHeaders": {},
+    "androidCustomHeaders": {},
+    "version": 5
+  },
+  "navigation": {
+    "tabNavigation": {
+      "tabSelectionConfig": [],
+      "tabMenus": [],
+      "active": false
+    },
+    "sidebarNavigation": {
+      "menuSelectionConfig": {
+        "redirectLocations": [
+          {
+            "regex": ".*",
+            "menuName": "default",
+            "loggedIn": true
+          }
+        ]
+      },
+      "menus": [
+        {
+          "active": false,
+          "items": [
+            {
+              "url": "https://libsa.store/#main",
+              "label": "Skip to content",
+              "subLinks": []
+            },
+            {
+              "url": "https://libsa.store/",
+              "label": "لبسة – libsa",
+              "subLinks": []
+            },
+            {
+              "url": "http://www.libsa.store/",
+              "label": "",
+              "subLinks": []
+            },
+            {
+              "url": "https://libsa.store/#ekit_modal-popup-a52d947",
+              "label": "",
+              "subLinks": []
+            },
+            {
+              "url": "https://libsa.store/accounty",
+              "label": "",
+              "subLinks": []
+            },
+            {
+              "url": "https://libsa.store/%d8%a7%d9%84%d8%b3%d9%84%d8%a9/",
+              "label": "د.ع0\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tcart",
+              "subLinks": []
+            },
+            {
+              "url": "https://libsa.store/wishlist-2/",
+              "label": "",
+              "subLinks": []
+            },
+            {
+              "url": "https://libsa.store/%d8%a7%d9%84%d9%82%d8%b3%d9%85-%d8%a7%d9%84%d9%86%d8%b3%d8%a7%d8%a6%d9%8a/",
+              "label": "",
+              "subLinks": []
+            },
+            {
+              "url": "https://libsa.store/%d8%a7%d9%84%d9%82%d8%b3%d9%85-%d8%a7%d9%84%d8%b1%d8%ac%d8%a7%d9%84%d9%8a/",
+              "label": "",
+              "subLinks": []
+            },
+            {
+              "url": "https://libsa.store/product-category/%d8%a7%d8%b7%d9%81%d8%a7%d9%84/",
+              "label": "",
+              "subLinks": []
+            },
+            {
+              "url": "https://libsa.store/%d9%82%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d8%ad%d8%b0%d9%8a%d8%a9-%d9%88%d8%a7%d9%84%d8%ad%d9%82%d8%a7%d8%a6%d8%a8/",
+              "label": "",
+              "subLinks": []
+            },
+            {
+              "url": "https://libsa.store/product-category/%d8%a7%d9%84%d9%85%d9%83%d9%8a%d8%a7%d8%ac-%d9%88%d8%a7%d9%84%d8%a8%d8%b4%d8%b1%d8%a9/",
+              "label": "",
+              "subLinks": []
+            },
+            {
+              "url": "https://libsa.store/product-category/%d8%b9%d8%b7%d9%88%d8%b1-%d9%88%d8%a8%d8%ae%d9%88%d8%b1/",
+              "label": "",
+              "subLinks": []
+            },
+            {
+              "url": "https://libsa.store/%d8%ad%d8%b1%d9%81-%d9%88%d9%81%d9%86%d9%88%d9%86/",
+              "label": "",
+              "subLinks": []
+            },
+            {
+              "url": "https://libsa.store/%d8%a7%d9%84%d8%a8%d9%8a%d8%aa/",
+              "label": "",
+              "subLinks": []
+            },
+            {
+              "url": "https://libsa.store/product-category/%d8%aa%d8%b1%d8%a7%d8%ab%d9%86%d8%a7/",
+              "label": "",
+              "subLinks": []
+            },
+            {
+              "url": "https://libsa.store/product-category/%d9%82%d8%b3%d9%85-%d8%b4%d9%8a-%d8%b4%d9%8a%d8%a7%d8%aa%d9%8a%d9%86/",
+              "label": "",
+              "subLinks": []
+            },
+            {
+              "url": "https://libsa.store/#ekit_modal-popup-031b826",
+              "label": "",
+              "subLinks": []
+            },
+            {
+              "url": "https://libsa.store/product/_par_for_product/",
+              "label": "<img class=\"lazy lazy-hidden\" decoding=\"async\"   src=\"//libsa.store/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif\" data-lazy-type=\"image\" data-src=\"https://libsa.store/wp-content/uploads/woocommerce-placeholder-200x200.png\"  alt=\"awaiting product image\" /><noscript><img decoding=\"async\"   src=\"https://libsa.store/wp-content/uploads/woocommerce-placeholder-200x200.png\"  alt=\"awaiting product image\" />",
+              "subLinks": []
+            },
+            {
+              "url": "https://libsa.store/product/reverse-withdrawal-payment/",
+              "label": "<img class=\"lazy lazy-hidden\" decoding=\"async\"   src=\"//libsa.store/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif\" data-lazy-type=\"image\" data-src=\"https://libsa.store/wp-content/uploads/woocommerce-placeholder-200x200.png\"  alt=\"awaiting product image\" /><noscript><img decoding=\"async\"   src=\"https://libsa.store/wp-content/uploads/woocommerce-placeholder-200x200.png\"  alt=\"awaiting product image\" />",
+              "subLinks": []
+            },
+            {
+              "url": "https://libsa.store/product/%d8%a8%d8%b4%d8%aa-%d9%81%d8%b1%d9%8a-%d8%b3%d8%a7%d9%8a%d8%b2-2/",
+              "label": "<img  width=\"200\" height=\"200\"  src=\"//libsa.store/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif\"  data-lazy-type=\"image\" data-src=\"https://libsa.store/wp-content/uploads/2023/06/2-200x200.jpg\" class=\"lazy lazy-hidden attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"\" data-srcset=\"https://libsa.store/wp-content/uploads/2023/06/2-200x200.jpg 200w, https://libsa.store/wp-content/uploads/2023/06/2-100x100.jpg 100w, https://libsa.store/wp-content/uploads/2023/06/2-400x400.jpg 400w, https://libsa.store/wp-content/uploads/2023/06/2-300x300.jpg 300w, https://libsa.store/wp-content/uploads/2023/06/2-1024x1024.jpg 1024w, https://libsa.store/wp-content/uploads/2023/06/2-150x150.jpg 150w, https://libsa.store/wp-content/uploads/2023/06/2-768x768.jpg 768w, https://libsa.store/wp-content/uploads/2023/06/2.jpg 1080w\" sizes=\"(max-width: 200px) 100vw, 200px\" /><img  width=\"200\" height=\"200\"  src=\"data:image/gif;base64,r0lgodlhaqabaiaaaaaaap///yh5baeaaaaalaaaaaabaaeaaaibraa7\" data-lazy-src=\"https://libsa.store/wp-content/uploads/2023/06/2-200x200.jpg\"  class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://libsa.store/wp-content/uploads/2023/06/2-200x200.jpg 200w, https://libsa.store/wp-content/uploads/2023/06/2-100x100.jpg 100w, https://libsa.store/wp-content/uploads/2023/06/2-400x400.jpg 400w, https://libsa.store/wp-content/uploads/2023/06/2-300x300.jpg 300w, https://libsa.store/wp-content/uploads/2023/06/2-1024x1024.jpg 1024w, https://libsa.store/wp-content/uploads/2023/06/2-150x150.jpg 150w, https://libsa.store/wp-content/uploads/2023/06/2-768x768.jpg 768w, https://libsa.store/wp-content/uploads/2023/06/2.jpg 1080w\" sizes=\"(max-width: 200px) 100vw, 200px\" /><noscript><img  width=\"200\" height=\"200\"  src=\"//libsa.store/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif\" data-lazy-type=\"image\" data-src=\"https://libsa.store/wp-content/uploads/2023/06/2-200x200.jpg\"  class=\"lazy lazy-hidden attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"\" data-srcset=\"https://libsa.store/wp-content/uploads/2023/06/2-200x200.jpg 200w, https://libsa.store/wp-content/uploads/2023/06/2-100x100.jpg 100w, https://libsa.store/wp-content/uploads/2023/06/2-400x400.jpg 400w, https://libsa.store/wp-content/uploads/2023/06/2-300x300.jpg 300w, https://libsa.store/wp-content/uploads/2023/06/2-1024x1024.jpg 1024w, https://libsa.store/wp-content/uploads/2023/06/2-150x150.jpg 150w, https://libsa.store/wp-content/uploads/2023/06/2-768x768.jpg 768w, https://libsa.store/wp-content/uploads/2023/06/2.jpg 1080w\" sizes=\"(max-width: 200px) 100vw, 200px\" /><noscript><img  width=\"200\" height=\"200\"  src=\"https://libsa.store/wp-content/uploads/2023/06/2-200x200.jpg\"  class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://libsa.store/wp-content/uploads/2023/06/2-200x200.jpg 200w, https://libsa.store/wp-content/uploads/2023/06/2-100x100.jpg 100w, https://libsa.store/wp-content/uploads/2023/06/2-400x400.jpg 400w, https://libsa.store/wp-content/uploads/2023/06/2-300x300.jpg 300w, https://libsa.store/wp-content/uploads/2023/06/2-1024x1024.jpg 1024w, https://libsa.store/wp-content/uploads/2023/06/2-150x150.jpg 150w, https://libsa.store/wp-content/uploads/2023/06/2-768x768.jpg 768w, https://libsa.store/wp-content/uploads/2023/06/2.jpg 1080w\" sizes=\"(max-width: 200px) 100vw, 200px\" />",
+              "subLinks": []
+            },
+            {
+              "url": "https://libsa.store/product/%d9%83%d9%84%d8%a7%d8%a8%d9%8a%d8%a9-%d9%81%d8%b1%d9%8a-%d8%b3%d8%a7%d9%8a%d8%b2-3/",
+              "label": "<img  width=\"200\" height=\"200\"  src=\"//libsa.store/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif\"  data-lazy-type=\"image\" data-src=\"https://libsa.store/wp-content/uploads/2023/06/1-200x200.jpg\" class=\"lazy lazy-hidden attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"\" data-srcset=\"https://libsa.store/wp-content/uploads/2023/06/1-200x200.jpg 200w, https://libsa.store/wp-content/uploads/2023/06/1-100x100.jpg 100w, https://libsa.store/wp-content/uploads/2023/06/1-400x400.jpg 400w, https://libsa.store/wp-content/uploads/2023/06/1-300x300.jpg 300w, https://libsa.store/wp-content/uploads/2023/06/1-1024x1024.jpg 1024w, https://libsa.store/wp-content/uploads/2023/06/1-150x150.jpg 150w, https://libsa.store/wp-content/uploads/2023/06/1-768x768.jpg 768w, https://libsa.store/wp-content/uploads/2023/06/1.jpg 1080w\" sizes=\"(max-width: 200px) 100vw, 200px\" /><img  width=\"200\" height=\"200\"  src=\"data:image/gif;base64,r0lgodlhaqabaiaaaaaaap///yh5baeaaaaalaaaaaabaaeaaaibraa7\" data-lazy-src=\"https://libsa.store/wp-content/uploads/2023/06/1-200x200.jpg\"  class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://libsa.store/wp-content/uploads/2023/06/1-200x200.jpg 200w, https://libsa.store/wp-content/uploads/2023/06/1-100x100.jpg 100w, https://libsa.store/wp-content/uploads/2023/06/1-400x400.jpg 400w, https://libsa.store/wp-content/uploads/2023/06/1-300x300.jpg 300w, https://libsa.store/wp-content/uploads/2023/06/1-1024x1024.jpg 1024w, https://libsa.store/wp-content/uploads/2023/06/1-150x150.jpg 150w, https://libsa.store/wp-content/uploads/2023/06/1-768x768.jpg 768w, https://libsa.store/wp-content/uploads/2023/06/1.jpg 1080w\" sizes=\"(max-width: 200px) 100vw, 200px\" /><noscript><img  width=\"200\" height=\"200\"  src=\"//libsa.store/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif\" data-lazy-type=\"image\" data-src=\"https://libsa.store/wp-content/uploads/2023/06/1-200x200.jpg\"  class=\"lazy lazy-hidden attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"\" data-srcset=\"https://libsa.store/wp-content/uploads/2023/06/1-200x200.jpg 200w, https://libsa.store/wp-content/uploads/2023/06/1-100x100.jpg 100w, https://libsa.store/wp-content/uploads/2023/06/1-400x400.jpg 400w, https://libsa.store/wp-content/uploads/2023/06/1-300x300.jpg 300w, https://libsa.store/wp-content/uploads/2023/06/1-1024x1024.jpg 1024w, https://libsa.store/wp-content/uploads/2023/06/1-150x150.jpg 150w, https://libsa.store/wp-content/uploads/2023/06/1-768x768.jpg 768w, https://libsa.store/wp-content/uploads/2023/06/1.jpg 1080w\" sizes=\"(max-width: 200px) 100vw, 200px\" /><noscript><img  width=\"200\" height=\"200\"  src=\"https://libsa.store/wp-content/uploads/2023/06/1-200x200.jpg\"  class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://libsa.store/wp-content/uploads/2023/06/1-200x200.jpg 200w, https://libsa.store/wp-content/uploads/2023/06/1-100x100.jpg 100w, https://libsa.store/wp-content/uploads/2023/06/1-400x400.jpg 400w, https://libsa.store/wp-content/uploads/2023/06/1-300x300.jpg 300w, https://libsa.store/wp-content/uploads/2023/06/1-1024x1024.jpg 1024w, https://libsa.store/wp-content/uploads/2023/06/1-150x150.jpg 150w, https://libsa.store/wp-content/uploads/2023/06/1-768x768.jpg 768w, https://libsa.store/wp-content/uploads/2023/06/1.jpg 1080w\" sizes=\"(max-width: 200px) 100vw, 200px\" />",
+              "subLinks": []
+            },
+            {
+              "url": "https://libsa.store/product/%d9%85%d8%b1%d8%a7%d9%8a%d8%a7-%d8%a7%d8%b7%d8%a7%d8%b1-%d9%83%d8%b1%d9%85/",
+              "label": "<img  width=\"200\" height=\"200\"  src=\"//libsa.store/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif\"  data-lazy-type=\"image\" data-src=\"https://libsa.store/wp-content/uploads/2023/04/2-25-200x200.jpg\" class=\"lazy lazy-hidden attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"\" data-srcset=\"https://libsa.store/wp-content/uploads/2023/04/2-25-200x200.jpg 200w, https://libsa.store/wp-content/uploads/2023/04/2-25-100x100.jpg 100w, https://libsa.store/wp-content/uploads/2023/04/2-25-400x400.jpg 400w, https://libsa.store/wp-content/uploads/2023/04/2-25-300x300.jpg 300w, https://libsa.store/wp-content/uploads/2023/04/2-25-1024x1024.jpg 1024w, https://libsa.store/wp-content/uploads/2023/04/2-25-150x150.jpg 150w, https://libsa.store/wp-content/uploads/2023/04/2-25-768x768.jpg 768w, https://libsa.store/wp-content/uploads/2023/04/2-25.jpg 1080w\" sizes=\"(max-width: 200px) 100vw, 200px\" /><img  width=\"200\" height=\"200\"  src=\"data:image/gif;base64,r0lgodlhaqabaiaaaaaaap///yh5baeaaaaalaaaaaabaaeaaaibraa7\" data-lazy-src=\"https://libsa.store/wp-content/uploads/2023/04/2-25-200x200.jpg\"  class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://libsa.store/wp-content/uploads/2023/04/2-25-200x200.jpg 200w, https://libsa.store/wp-content/uploads/2023/04/2-25-100x100.jpg 100w, https://libsa.store/wp-content/uploads/2023/04/2-25-400x400.jpg 400w, https://libsa.store/wp-content/uploads/2023/04/2-25-300x300.jpg 300w, https://libsa.store/wp-content/uploads/2023/04/2-25-1024x1024.jpg 1024w, https://libsa.store/wp-content/uploads/2023/04/2-25-150x150.jpg 150w, https://libsa.store/wp-content/uploads/2023/04/2-25-768x768.jpg 768w, https://libsa.store/wp-content/uploads/2023/04/2-25.jpg 1080w\" sizes=\"(max-width: 200px) 100vw, 200px\" /><noscript><img  width=\"200\" height=\"200\"  src=\"//libsa.store/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif\" data-lazy-type=\"image\" data-src=\"https://libsa.store/wp-content/uploads/2023/04/2-25-200x200.jpg\"  class=\"lazy lazy-hidden attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"\" data-srcset=\"https://libsa.store/wp-content/uploads/2023/04/2-25-200x200.jpg 200w, https://libsa.store/wp-content/uploads/2023/04/2-25-100x100.jpg 100w, https://libsa.store/wp-content/uploads/2023/04/2-25-400x400.jpg 400w, https://libsa.store/wp-content/uploads/2023/04/2-25-300x300.jpg 300w, https://libsa.store/wp-content/uploads/2023/04/2-25-1024x1024.jpg 1024w, https://libsa.store/wp-content/uploads/2023/04/2-25-150x150.jpg 150w, https://libsa.store/wp-content/uploads/2023/04/2-25-768x768.jpg 768w, https://libsa.store/wp-content/uploads/2023/04/2-25.jpg 1080w\" sizes=\"(max-width: 200px) 100vw, 200px\" /><noscript><img  width=\"200\" height=\"200\"  src=\"https://libsa.store/wp-content/uploads/2023/04/2-25-200x200.jpg\"  class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://libsa.store/wp-content/uploads/2023/04/2-25-200x200.jpg 200w, https://libsa.store/wp-content/uploads/2023/04/2-25-100x100.jpg 100w, https://libsa.store/wp-content/uploads/2023/04/2-25-400x400.jpg 400w, https://libsa.store/wp-content/uploads/2023/04/2-25-300x300.jpg 300w, https://libsa.store/wp-content/uploads/2023/04/2-25-1024x1024.jpg 1024w, https://libsa.store/wp-content/uploads/2023/04/2-25-150x150.jpg 150w, https://libsa.store/wp-content/uploads/2023/04/2-25-768x768.jpg 768w, https://libsa.store/wp-content/uploads/2023/04/2-25.jpg 1080w\" sizes=\"(max-width: 200px) 100vw, 200px\" />",
+              "subLinks": []
+            },
+            {
+              "url": "https://libsa.store/product/%d9%85%d8%a8%d8%ae%d8%b1%d8%a9-%d8%b1%d8%b3%d9%85/",
+              "label": "<img  width=\"200\" height=\"200\"  src=\"//libsa.store/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif\"  data-lazy-type=\"image\" data-src=\"https://libsa.store/wp-content/uploads/2023/04/10-6-200x200.jpg\" class=\"lazy lazy-hidden attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"\" data-srcset=\"https://libsa.store/wp-content/uploads/2023/04/10-6-200x200.jpg 200w, https://libsa.store/wp-content/uploads/2023/04/10-6-100x100.jpg 100w, https://libsa.store/wp-content/uploads/2023/04/10-6-400x400.jpg 400w, https://libsa.store/wp-content/uploads/2023/04/10-6-300x300.jpg 300w, https://libsa.store/wp-content/uploads/2023/04/10-6-1024x1024.jpg 1024w, https://libsa.store/wp-content/uploads/2023/04/10-6-150x150.jpg 150w, https://libsa.store/wp-content/uploads/2023/04/10-6-768x768.jpg 768w, https://libsa.store/wp-content/uploads/2023/04/10-6.jpg 1080w\" sizes=\"(max-width: 200px) 100vw, 200px\" /><img  width=\"200\" height=\"200\"  src=\"data:image/gif;base64,r0lgodlhaqabaiaaaaaaap///yh5baeaaaaalaaaaaabaaeaaaibraa7\" data-lazy-src=\"https://libsa.store/wp-content/uploads/2023/04/10-6-200x200.jpg\"  class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://libsa.store/wp-content/uploads/2023/04/10-6-200x200.jpg 200w, https://libsa.store/wp-content/uploads/2023/04/10-6-100x100.jpg 100w, https://libsa.store/wp-content/uploads/2023/04/10-6-400x400.jpg 400w, https://libsa.store/wp-content/uploads/2023/04/10-6-300x300.jpg 300w, https://libsa.store/wp-content/uploads/2023/04/10-6-1024x1024.jpg 1024w, https://libsa.store/wp-content/uploads/2023/04/10-6-150x150.jpg 150w, https://libsa.store/wp-content/uploads/2023/04/10-6-768x768.jpg 768w, https://libsa.store/wp-content/uploads/2023/04/10-6.jpg 1080w\" sizes=\"(max-width: 200px) 100vw, 200px\" /><noscript><img  width=\"200\" height=\"200\"  src=\"//libsa.store/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif\" data-lazy-type=\"image\" data-src=\"https://libsa.store/wp-content/uploads/2023/04/10-6-200x200.jpg\"  class=\"lazy lazy-hidden attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"\" data-srcset=\"https://libsa.store/wp-content/uploads/2023/04/10-6-200x200.jpg 200w, https://libsa.store/wp-content/uploads/2023/04/10-6-100x100.jpg 100w, https://libsa.store/wp-content/uploads/2023/04/10-6-400x400.jpg 400w, https://libsa.store/wp-content/uploads/2023/04/10-6-300x300.jpg 300w, https://libsa.store/wp-content/uploads/2023/04/10-6-1024x1024.jpg 1024w, https://libsa.store/wp-content/uploads/2023/04/10-6-150x150.jpg 150w, https://libsa.store/wp-content/uploads/2023/04/10-6-768x768.jpg 768w, https://libsa.store/wp-content/uploads/2023/04/10-6.jpg 1080w\" sizes=\"(max-width: 200px) 100vw, 200px\" /><noscript><img  width=\"200\" height=\"200\"  src=\"https://libsa.store/wp-content/uploads/2023/04/10-6-200x200.jpg\"  class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://libsa.store/wp-content/uploads/2023/04/10-6-200x200.jpg 200w, https://libsa.store/wp-content/uploads/2023/04/10-6-100x100.jpg 100w, https://libsa.store/wp-content/uploads/2023/04/10-6-400x400.jpg 400w, https://libsa.store/wp-content/uploads/2023/04/10-6-300x300.jpg 300w, https://libsa.store/wp-content/uploads/2023/04/10-6-1024x1024.jpg 1024w, https://libsa.store/wp-content/uploads/2023/04/10-6-150x150.jpg 150w, https://libsa.store/wp-content/uploads/2023/04/10-6-768x768.jpg 768w, https://libsa.store/wp-content/uploads/2023/04/10-6.jpg 1080w\" sizes=\"(max-width: 200px) 100vw, 200px\" />",
+              "subLinks": []
+            },
+            {
+              "url": "https://libsa.store/product/%d9%84%d9%88%d8%ad%d8%a9-%d8%b1%d8%b3%d9%85/",
+              "label": "<img  width=\"200\" height=\"200\"  src=\"//libsa.store/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif\"  data-lazy-type=\"image\" data-src=\"https://libsa.store/wp-content/uploads/2023/04/11-6-200x200.jpg\" class=\"lazy lazy-hidden attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"\" data-srcset=\"https://libsa.store/wp-content/uploads/2023/04/11-6-200x200.jpg 200w, https://libsa.store/wp-content/uploads/2023/04/11-6-100x100.jpg 100w, https://libsa.store/wp-content/uploads/2023/04/11-6-400x400.jpg 400w, https://libsa.store/wp-content/uploads/2023/04/11-6-300x300.jpg 300w, https://libsa.store/wp-content/uploads/2023/04/11-6-1024x1024.jpg 1024w, https://libsa.store/wp-content/uploads/2023/04/11-6-150x150.jpg 150w, https://libsa.store/wp-content/uploads/2023/04/11-6-768x768.jpg 768w, https://libsa.store/wp-content/uploads/2023/04/11-6.jpg 1080w\" sizes=\"(max-width: 200px) 100vw, 200px\" /><img  width=\"200\" height=\"200\"  src=\"data:image/gif;base64,r0lgodlhaqabaiaaaaaaap///yh5baeaaaaalaaaaaabaaeaaaibraa7\" data-lazy-src=\"https://libsa.store/wp-content/uploads/2023/04/11-6-200x200.jpg\"  class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://libsa.store/wp-content/uploads/2023/04/11-6-200x200.jpg 200w, https://libsa.store/wp-content/uploads/2023/04/11-6-100x100.jpg 100w, https://libsa.store/wp-content/uploads/2023/04/11-6-400x400.jpg 400w, https://libsa.store/wp-content/uploads/2023/04/11-6-300x300.jpg 300w, https://libsa.store/wp-content/uploads/2023/04/11-6-1024x1024.jpg 1024w, https://libsa.store/wp-content/uploads/2023/04/11-6-150x150.jpg 150w, https://libsa.store/wp-content/uploads/2023/04/11-6-768x768.jpg 768w, https://libsa.store/wp-content/uploads/2023/04/11-6.jpg 1080w\" sizes=\"(max-width: 200px) 100vw, 200px\" /><noscript><img  width=\"200\" height=\"200\"  src=\"//libsa.store/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif\" data-lazy-type=\"image\" data-src=\"https://libsa.store/wp-content/uploads/2023/04/11-6-200x200.jpg\"  class=\"lazy lazy-hidden attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"\" data-srcset=\"https://libsa.store/wp-content/uploads/2023/04/11-6-200x200.jpg 200w, https://libsa.store/wp-content/uploads/2023/04/11-6-100x100.jpg 100w, https://libsa.store/wp-content/uploads/2023/04/11-6-400x400.jpg 400w, https://libsa.store/wp-content/uploads/2023/04/11-6-300x300.jpg 300w, https://libsa.store/wp-content/uploads/2023/04/11-6-1024x1024.jpg 1024w, https://libsa.store/wp-content/uploads/2023/04/11-6-150x150.jpg 150w, https://libsa.store/wp-content/uploads/2023/04/11-6-768x768.jpg 768w, https://libsa.store/wp-content/uploads/2023/04/11-6.jpg 1080w\" sizes=\"(max-width: 200px) 100vw, 200px\" /><noscript><img  width=\"200\" height=\"200\"  src=\"https://libsa.store/wp-content/uploads/2023/04/11-6-200x200.jpg\"  class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://libsa.store/wp-content/uploads/2023/04/11-6-200x200.jpg 200w, https://libsa.store/wp-content/uploads/2023/04/11-6-100x100.jpg 100w, https://libsa.store/wp-content/uploads/2023/04/11-6-400x400.jpg 400w, https://libsa.store/wp-content/uploads/2023/04/11-6-300x300.jpg 300w, https://libsa.store/wp-content/uploads/2023/04/11-6-1024x1024.jpg 1024w, https://libsa.store/wp-content/uploads/2023/04/11-6-150x150.jpg 150w, https://libsa.store/wp-content/uploads/2023/04/11-6-768x768.jpg 768w, https://libsa.store/wp-content/uploads/2023/04/11-6.jpg 1080w\" sizes=\"(max-width: 200px) 100vw, 200px\" />",
+              "subLinks": []
+            },
+            {
+              "url": "https://libsa.store/product/%d9%85%d8%b1%d8%a7%d9%8a%d8%a7-%d8%b3%d8%a8%d8%b9-%d8%b9%d9%8a%d9%88%d9%86/",
+              "label": "<img  width=\"200\" height=\"200\"  src=\"//libsa.store/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif\"  data-lazy-type=\"image\" data-src=\"https://libsa.store/wp-content/uploads/2023/04/2-23-200x200.jpg\" class=\"lazy lazy-hidden attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"\" data-srcset=\"https://libsa.store/wp-content/uploads/2023/04/2-23-200x200.jpg 200w, https://libsa.store/wp-content/uploads/2023/04/2-23-100x100.jpg 100w, https://libsa.store/wp-content/uploads/2023/04/2-23-400x400.jpg 400w, https://libsa.store/wp-content/uploads/2023/04/2-23-300x300.jpg 300w, https://libsa.store/wp-content/uploads/2023/04/2-23-1024x1024.jpg 1024w, https://libsa.store/wp-content/uploads/2023/04/2-23-150x150.jpg 150w, https://libsa.store/wp-content/uploads/2023/04/2-23-768x768.jpg 768w, https://libsa.store/wp-content/uploads/2023/04/2-23.jpg 1080w\" sizes=\"(max-width: 200px) 100vw, 200px\" /><img  width=\"200\" height=\"200\"  src=\"data:image/gif;base64,r0lgodlhaqabaiaaaaaaap///yh5baeaaaaalaaaaaabaaeaaaibraa7\" data-lazy-src=\"https://libsa.store/wp-content/uploads/2023/04/2-23-200x200.jpg\"  class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://libsa.store/wp-content/uploads/2023/04/2-23-200x200.jpg 200w, https://libsa.store/wp-content/uploads/2023/04/2-23-100x100.jpg 100w, https://libsa.store/wp-content/uploads/2023/04/2-23-400x400.jpg 400w, https://libsa.store/wp-content/uploads/2023/04/2-23-300x300.jpg 300w, https://libsa.store/wp-content/uploads/2023/04/2-23-1024x1024.jpg 1024w, https://libsa.store/wp-content/uploads/2023/04/2-23-150x150.jpg 150w, https://libsa.store/wp-content/uploads/2023/04/2-23-768x768.jpg 768w, https://libsa.store/wp-content/uploads/2023/04/2-23.jpg 1080w\" sizes=\"(max-width: 200px) 100vw, 200px\" /><noscript><img  width=\"200\" height=\"200\"  src=\"//libsa.store/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif\" data-lazy-type=\"image\" data-src=\"https://libsa.store/wp-content/uploads/2023/04/2-23-200x200.jpg\"  class=\"lazy lazy-hidden attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"\" data-srcset=\"https://libsa.store/wp-content/uploads/2023/04/2-23-200x200.jpg 200w, https://libsa.store/wp-content/uploads/2023/04/2-23-100x100.jpg 100w, https://libsa.store/wp-content/uploads/2023/04/2-23-400x400.jpg 400w, https://libsa.store/wp-content/uploads/2023/04/2-23-300x300.jpg 300w, https://libsa.store/wp-content/uploads/2023/04/2-23-1024x1024.jpg 1024w, https://libsa.store/wp-content/uploads/2023/04/2-23-150x150.jpg 150w, https://libsa.store/wp-content/uploads/2023/04/2-23-768x768.jpg 768w, https://libsa.store/wp-content/uploads/2023/04/2-23.jpg 1080w\" sizes=\"(max-width: 200px) 100vw, 200px\" /><noscript><img  width=\"200\" height=\"200\"  src=\"https://libsa.store/wp-content/uploads/2023/04/2-23-200x200.jpg\"  class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://libsa.store/wp-content/uploads/2023/04/2-23-200x200.jpg 200w, https://libsa.store/wp-content/uploads/2023/04/2-23-100x100.jpg 100w, https://libsa.store/wp-content/uploads/2023/04/2-23-400x400.jpg 400w, https://libsa.store/wp-content/uploads/2023/04/2-23-300x300.jpg 300w, https://libsa.store/wp-content/uploads/2023/04/2-23-1024x1024.jpg 1024w, https://libsa.store/wp-content/uploads/2023/04/2-23-150x150.jpg 150w, https://libsa.store/wp-content/uploads/2023/04/2-23-768x768.jpg 768w, https://libsa.store/wp-content/uploads/2023/04/2-23.jpg 1080w\" sizes=\"(max-width: 200px) 100vw, 200px\" />",
+              "subLinks": []
+            },
+            {
+              "url": "https://libsa.store/product/%d8%b3%d9%8a%d8%aa-%d8%b4%d9%85%d9%88%d8%b9-%d8%ab%d9%84%d8%a7%d8%ab%d9%8a/",
+              "label": "<img  width=\"200\" height=\"200\"  src=\"//libsa.store/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif\"  data-lazy-type=\"image\" data-src=\"https://libsa.store/wp-content/uploads/2023/04/1-22-200x200.jpg\" class=\"lazy lazy-hidden attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"\" data-srcset=\"https://libsa.store/wp-content/uploads/2023/04/1-22-200x200.jpg 200w, https://libsa.store/wp-content/uploads/2023/04/1-22-100x100.jpg 100w, https://libsa.store/wp-content/uploads/2023/04/1-22-400x400.jpg 400w, https://libsa.store/wp-content/uploads/2023/04/1-22-300x300.jpg 300w, https://libsa.store/wp-content/uploads/2023/04/1-22-1024x1024.jpg 1024w, https://libsa.store/wp-content/uploads/2023/04/1-22-150x150.jpg 150w, https://libsa.store/wp-content/uploads/2023/04/1-22-768x768.jpg 768w, https://libsa.store/wp-content/uploads/2023/04/1-22.jpg 1080w\" sizes=\"(max-width: 200px) 100vw, 200px\" /><img  width=\"200\" height=\"200\"  src=\"data:image/gif;base64,r0lgodlhaqabaiaaaaaaap///yh5baeaaaaalaaaaaabaaeaaaibraa7\" data-lazy-src=\"https://libsa.store/wp-content/uploads/2023/04/1-22-200x200.jpg\"  class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://libsa.store/wp-content/uploads/2023/04/1-22-200x200.jpg 200w, https://libsa.store/wp-content/uploads/2023/04/1-22-100x100.jpg 100w, https://libsa.store/wp-content/uploads/2023/04/1-22-400x400.jpg 400w, https://libsa.store/wp-content/uploads/2023/04/1-22-300x300.jpg 300w, https://libsa.store/wp-content/uploads/2023/04/1-22-1024x1024.jpg 1024w, https://libsa.store/wp-content/uploads/2023/04/1-22-150x150.jpg 150w, https://libsa.store/wp-content/uploads/2023/04/1-22-768x768.jpg 768w, https://libsa.store/wp-content/uploads/2023/04/1-22.jpg 1080w\" sizes=\"(max-width: 200px) 100vw, 200px\" /><noscript><img  width=\"200\" height=\"200\"  src=\"//libsa.store/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif\" data-lazy-type=\"image\" data-src=\"https://libsa.store/wp-content/uploads/2023/04/1-22-200x200.jpg\"  class=\"lazy lazy-hidden attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"\" data-srcset=\"https://libsa.store/wp-content/uploads/2023/04/1-22-200x200.jpg 200w, https://libsa.store/wp-content/uploads/2023/04/1-22-100x100.jpg 100w, https://libsa.store/wp-content/uploads/2023/04/1-22-400x400.jpg 400w, https://libsa.store/wp-content/uploads/2023/04/1-22-300x300.jpg 300w, https://libsa.store/wp-content/uploads/2023/04/1-22-1024x1024.jpg 1024w, https://libsa.store/wp-content/uploads/2023/04/1-22-150x150.jpg 150w, https://libsa.store/wp-content/uploads/2023/04/1-22-768x768.jpg 768w, https://libsa.store/wp-content/uploads/2023/04/1-22.jpg 1080w\" sizes=\"(max-width: 200px) 100vw, 200px\" /><noscript><img  width=\"200\" height=\"200\"  src=\"https://libsa.store/wp-content/uploads/2023/04/1-22-200x200.jpg\"  class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://libsa.store/wp-content/uploads/2023/04/1-22-200x200.jpg 200w, https://libsa.store/wp-content/uploads/2023/04/1-22-100x100.jpg 100w, https://libsa.store/wp-content/uploads/2023/04/1-22-400x400.jpg 400w, https://libsa.store/wp-content/uploads/2023/04/1-22-300x300.jpg 300w, https://libsa.store/wp-content/uploads/2023/04/1-22-1024x1024.jpg 1024w, https://libsa.store/wp-content/uploads/2023/04/1-22-150x150.jpg 150w, https://libsa.store/wp-content/uploads/2023/04/1-22-768x768.jpg 768w, https://libsa.store/wp-content/uploads/2023/04/1-22.jpg 1080w\" sizes=\"(max-width: 200px) 100vw, 200px\" />",
+              "subLinks": []
+            },
+            {
+              "url": "https://libsa.store/product/%d9%82%d9%88%d8%b1%d9%8a-%d8%b1%d8%b3%d9%85-%d8%a8%d8%ba%d8%af%d8%a7%d8%af%d9%8a/",
+              "label": "<img  width=\"200\" height=\"200\"  src=\"//libsa.store/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif\"  data-lazy-type=\"image\" data-src=\"https://libsa.store/wp-content/uploads/2023/04/2-24-200x200.jpg\" class=\"lazy lazy-hidden attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"\" data-srcset=\"https://libsa.store/wp-content/uploads/2023/04/2-24-200x200.jpg 200w, https://libsa.store/wp-content/uploads/2023/04/2-24-100x100.jpg 100w, https://libsa.store/wp-content/uploads/2023/04/2-24-400x400.jpg 400w, https://libsa.store/wp-content/uploads/2023/04/2-24-300x300.jpg 300w, https://libsa.store/wp-content/uploads/2023/04/2-24-1024x1024.jpg 1024w, https://libsa.store/wp-content/uploads/2023/04/2-24-150x150.jpg 150w, https://libsa.store/wp-content/uploads/2023/04/2-24-768x768.jpg 768w, https://libsa.store/wp-content/uploads/2023/04/2-24.jpg 1080w\" sizes=\"(max-width: 200px) 100vw, 200px\" /><img  width=\"200\" height=\"200\"  src=\"data:image/gif;base64,r0lgodlhaqabaiaaaaaaap///yh5baeaaaaalaaaaaabaaeaaaibraa7\" data-lazy-src=\"https://libsa.store/wp-content/uploads/2023/04/2-24-200x200.jpg\"  class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://libsa.store/wp-content/uploads/2023/04/2-24-200x200.jpg 200w, https://libsa.store/wp-content/uploads/2023/04/2-24-100x100.jpg 100w, https://libsa.store/wp-content/uploads/2023/04/2-24-400x400.jpg 400w, https://libsa.store/wp-content/uploads/2023/04/2-24-300x300.jpg 300w, https://libsa.store/wp-content/uploads/2023/04/2-24-1024x1024.jpg 1024w, https://libsa.store/wp-content/uploads/2023/04/2-24-150x150.jpg 150w, https://libsa.store/wp-content/uploads/2023/04/2-24-768x768.jpg 768w, https://libsa.store/wp-content/uploads/2023/04/2-24.jpg 1080w\" sizes=\"(max-width: 200px) 100vw, 200px\" /><noscript><img  width=\"200\" height=\"200\"  src=\"//libsa.store/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif\" data-lazy-type=\"image\" data-src=\"https://libsa.store/wp-content/uploads/2023/04/2-24-200x200.jpg\"  class=\"lazy lazy-hidden attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"\" data-srcset=\"https://libsa.store/wp-content/uploads/2023/04/2-24-200x200.jpg 200w, https://libsa.store/wp-content/uploads/2023/04/2-24-100x100.jpg 100w, https://libsa.store/wp-content/uploads/2023/04/2-24-400x400.jpg 400w, https://libsa.store/wp-content/uploads/2023/04/2-24-300x300.jpg 300w, https://libsa.store/wp-content/uploads/2023/04/2-24-1024x1024.jpg 1024w, https://libsa.store/wp-content/uploads/2023/04/2-24-150x150.jpg 150w, https://libsa.store/wp-content/uploads/2023/04/2-24-768x768.jpg 768w, https://libsa.store/wp-content/uploads/2023/04/2-24.jpg 1080w\" sizes=\"(max-width: 200px) 100vw, 200px\" /><noscript><img  width=\"200\" height=\"200\"  src=\"https://libsa.store/wp-content/uploads/2023/04/2-24-200x200.jpg\"  class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://libsa.store/wp-content/uploads/2023/04/2-24-200x200.jpg 200w, https://libsa.store/wp-content/uploads/2023/04/2-24-100x100.jpg 100w, https://libsa.store/wp-content/uploads/2023/04/2-24-400x400.jpg 400w, https://libsa.store/wp-content/uploads/2023/04/2-24-300x300.jpg 300w, https://libsa.store/wp-content/uploads/2023/04/2-24-1024x1024.jpg 1024w, https://libsa.store/wp-content/uploads/2023/04/2-24-150x150.jpg 150w, https://libsa.store/wp-content/uploads/2023/04/2-24-768x768.jpg 768w, https://libsa.store/wp-content/uploads/2023/04/2-24.jpg 1080w\" sizes=\"(max-width: 200px) 100vw, 200px\" />",
+              "subLinks": []
+            },
+            {
+              "url": "https://libsa.store/product/%d8%b5%d8%ad%d9%86-%d8%b1%d8%b3%d9%85/",
+              "label": "<img  width=\"200\" height=\"200\"  src=\"//libsa.store/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif\"  data-lazy-type=\"image\" data-src=\"https://libsa.store/wp-content/uploads/2023/04/untitled-design-6-2-200x200.jpg\" class=\"lazy lazy-hidden attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"\" data-srcset=\"https://libsa.store/wp-content/uploads/2023/04/untitled-design-6-2-200x200.jpg 200w, https://libsa.store/wp-content/uploads/2023/04/untitled-design-6-2-100x100.jpg 100w, https://libsa.store/wp-content/uploads/2023/04/untitled-design-6-2-400x400.jpg 400w, https://libsa.store/wp-content/uploads/2023/04/untitled-design-6-2-300x300.jpg 300w, https://libsa.store/wp-content/uploads/2023/04/untitled-design-6-2-1024x1024.jpg 1024w, https://libsa.store/wp-content/uploads/2023/04/untitled-design-6-2-150x150.jpg 150w, https://libsa.store/wp-content/uploads/2023/04/untitled-design-6-2-768x768.jpg 768w, https://libsa.store/wp-content/uploads/2023/04/untitled-design-6-2.jpg 1080w\" sizes=\"(max-width: 200px) 100vw, 200px\" /><img  width=\"200\" height=\"200\"  src=\"data:image/gif;base64,r0lgodlhaqabaiaaaaaaap///yh5baeaaaaalaaaaaabaaeaaaibraa7\" data-lazy-src=\"https://libsa.store/wp-content/uploads/2023/04/untitled-design-6-2-200x200.jpg\"  class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://libsa.store/wp-content/uploads/2023/04/untitled-design-6-2-200x200.jpg 200w, https://libsa.store/wp-content/uploads/2023/04/untitled-design-6-2-100x100.jpg 100w, https://libsa.store/wp-content/uploads/2023/04/untitled-design-6-2-400x400.jpg 400w, https://libsa.store/wp-content/uploads/2023/04/untitled-design-6-2-300x300.jpg 300w, https://libsa.store/wp-content/uploads/2023/04/untitled-design-6-2-1024x1024.jpg 1024w, https://libsa.store/wp-content/uploads/2023/04/untitled-design-6-2-150x150.jpg 150w, https://libsa.store/wp-content/uploads/2023/04/untitled-design-6-2-768x768.jpg 768w, https://libsa.store/wp-content/uploads/2023/04/untitled-design-6-2.jpg 1080w\" sizes=\"(max-width: 200px) 100vw, 200px\" /><noscript><img  width=\"200\" height=\"200\"  src=\"//libsa.store/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif\" data-lazy-type=\"image\" data-src=\"https://libsa.store/wp-content/uploads/2023/04/untitled-design-6-2-200x200.jpg\"  class=\"lazy lazy-hidden attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"\" data-srcset=\"https://libsa.store/wp-content/uploads/2023/04/untitled-design-6-2-200x200.jpg 200w, https://libsa.store/wp-content/uploads/2023/04/untitled-design-6-2-100x100.jpg 100w, https://libsa.store/wp-content/uploads/2023/04/untitled-design-6-2-400x400.jpg 400w, https://libsa.store/wp-content/uploads/2023/04/untitled-design-6-2-300x300.jpg 300w, https://libsa.store/wp-content/uploads/2023/04/untitled-design-6-2-1024x1024.jpg 1024w, https://libsa.store/wp-content/uploads/2023/04/untitled-design-6-2-150x150.jpg 150w, https://libsa.store/wp-content/uploads/2023/04/untitled-design-6-2-768x768.jpg 768w, https://libsa.store/wp-content/uploads/2023/04/untitled-design-6-2.jpg 1080w\" sizes=\"(max-width: 200px) 100vw, 200px\" /><noscript><img  width=\"200\" height=\"200\"  src=\"https://libsa.store/wp-content/uploads/2023/04/untitled-design-6-2-200x200.jpg\"  class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://libsa.store/wp-content/uploads/2023/04/untitled-design-6-2-200x200.jpg 200w, https://libsa.store/wp-content/uploads/2023/04/untitled-design-6-2-100x100.jpg 100w, https://libsa.store/wp-content/uploads/2023/04/untitled-design-6-2-400x400.jpg 400w, https://libsa.store/wp-content/uploads/2023/04/untitled-design-6-2-300x300.jpg 300w, https://libsa.store/wp-content/uploads/2023/04/untitled-design-6-2-1024x1024.jpg 1024w, https://libsa.store/wp-content/uploads/2023/04/untitled-design-6-2-150x150.jpg 150w, https://libsa.store/wp-content/uploads/2023/04/untitled-design-6-2-768x768.jpg 768w, https://libsa.store/wp-content/uploads/2023/04/untitled-design-6-2.jpg 1080w\" sizes=\"(max-width: 200px) 100vw, 200px\" />",
+              "subLinks": []
+            },
+            {
+              "url": "https://libsa.store/product/%d9%85%d8%a8%d8%ae%d8%b1%d8%a9-%d9%88%d8%a8%d9%88%d9%83%d8%b3-%d8%b1%d8%b3%d9%85/",
+              "label": "<img  width=\"200\" height=\"200\"  src=\"//libsa.store/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif\"  data-lazy-type=\"image\" data-src=\"https://libsa.store/wp-content/uploads/2023/04/6-11-200x200.jpg\" class=\"lazy lazy-hidden attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"\" data-srcset=\"https://libsa.store/wp-content/uploads/2023/04/6-11-200x200.jpg 200w, https://libsa.store/wp-content/uploads/2023/04/6-11-100x100.jpg 100w, https://libsa.store/wp-content/uploads/2023/04/6-11-400x400.jpg 400w, https://libsa.store/wp-content/uploads/2023/04/6-11-300x300.jpg 300w, https://libsa.store/wp-content/uploads/2023/04/6-11-1024x1024.jpg 1024w, https://libsa.store/wp-content/uploads/2023/04/6-11-150x150.jpg 150w, https://libsa.store/wp-content/uploads/2023/04/6-11-768x768.jpg 768w, https://libsa.store/wp-content/uploads/2023/04/6-11.jpg 1080w\" sizes=\"(max-width: 200px) 100vw, 200px\" /><img  width=\"200\" height=\"200\"  src=\"data:image/gif;base64,r0lgodlhaqabaiaaaaaaap///yh5baeaaaaalaaaaaabaaeaaaibraa7\" data-lazy-src=\"https://libsa.store/wp-content/uploads/2023/04/6-11-200x200.jpg\"  class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://libsa.store/wp-content/uploads/2023/04/6-11-200x200.jpg 200w, https://libsa.store/wp-content/uploads/2023/04/6-11-100x100.jpg 100w, https://libsa.store/wp-content/uploads/2023/04/6-11-400x400.jpg 400w, https://libsa.store/wp-content/uploads/2023/04/6-11-300x300.jpg 300w, https://libsa.store/wp-content/uploads/2023/04/6-11-1024x1024.jpg 1024w, https://libsa.store/wp-content/uploads/2023/04/6-11-150x150.jpg 150w, https://libsa.store/wp-content/uploads/2023/04/6-11-768x768.jpg 768w, https://libsa.store/wp-content/uploads/2023/04/6-11.jpg 1080w\" sizes=\"(max-width: 200px) 100vw, 200px\" /><noscript><img  width=\"200\" height=\"200\"  src=\"//libsa.store/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif\" data-lazy-type=\"image\" data-src=\"https://libsa.store/wp-content/uploads/2023/04/6-11-200x200.jpg\"  class=\"lazy lazy-hidden attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"\" data-srcset=\"https://libsa.store/wp-content/uploads/2023/04/6-11-200x200.jpg 200w, https://libsa.store/wp-content/uploads/2023/04/6-11-100x100.jpg 100w, https://libsa.store/wp-content/uploads/2023/04/6-11-400x400.jpg 400w, https://libsa.store/wp-content/uploads/2023/04/6-11-300x300.jpg 300w, https://libsa.store/wp-content/uploads/2023/04/6-11-1024x1024.jpg 1024w, https://libsa.store/wp-content/uploads/2023/04/6-11-150x150.jpg 150w, https://libsa.store/wp-content/uploads/2023/04/6-11-768x768.jpg 768w, https://libsa.store/wp-content/uploads/2023/04/6-11.jpg 1080w\" sizes=\"(max-width: 200px) 100vw, 200px\" /><noscript><img  width=\"200\" height=\"200\"  src=\"https://libsa.store/wp-content/uploads/2023/04/6-11-200x200.jpg\"  class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://libsa.store/wp-content/uploads/2023/04/6-11-200x200.jpg 200w, https://libsa.store/wp-content/uploads/2023/04/6-11-100x100.jpg 100w, https://libsa.store/wp-content/uploads/2023/04/6-11-400x400.jpg 400w, https://libsa.store/wp-content/uploads/2023/04/6-11-300x300.jpg 300w, https://libsa.store/wp-content/uploads/2023/04/6-11-1024x1024.jpg 1024w, https://libsa.store/wp-content/uploads/2023/04/6-11-150x150.jpg 150w, https://libsa.store/wp-content/uploads/2023/04/6-11-768x768.jpg 768w, https://libsa.store/wp-content/uploads/2023/04/6-11.jpg 1080w\" sizes=\"(max-width: 200px) 100vw, 200px\" />",
+              "subLinks": []
+            },
+            {
+              "url": "https://libsa.store/product-category/%d9%86%d8%b3%d8%a7%d8%a6%d9%8a/%d8%ae%d8%a7%d9%86%d8%a9-%d8%a7%d9%84%d9%82%d8%a7%d8%b7-%d8%a7%d9%84%d9%86%d8%b3%d8%a7%d8%a6%d9%8a/",
+              "label": "<img decoding=\"async\" width=\"300\" height=\"300\" src=\"https://libsa.store/wp-content/uploads/2023/02/خانة-القاط-لقسم-النسائي-300x300.png\" class=\"elementor-animation-shrink attachment-medium size-medium wp-image-284\" alt=\"\" loading=\"lazy\" srcset=\"https://libsa.store/wp-content/uploads/2023/02/خانة-القاط-لقسم-النسائي-300x300.png 300w, https://libsa.store/wp-content/uploads/2023/02/خانة-القاط-لقسم-النسائي-200x200.png 200w, https://libsa.store/wp-content/uploads/2023/02/خانة-القاط-لقسم-النسائي-100x100.png 100w, https://libsa.store/wp-content/uploads/2023/02/خانة-القاط-لقسم-النسائي-400x400.png 400w, https://libsa.store/wp-content/uploads/2023/02/خانة-القاط-لقسم-النسائي-150x150.png 150w, https://libsa.store/wp-content/uploads/2023/02/خانة-القاط-لقسم-النسائي.png 600w\" sizes=\"(max-width: 300px) 100vw, 300px\" />",
+              "subLinks": []
+            },
+            {
+              "url": "https://libsa.store/product-category/%d9%86%d8%b3%d8%a7%d8%a6%d9%8a/%d8%ae%d8%a7%d9%86%d8%a9-%d8%a7%d9%84%d9%81%d8%b3%d8%a7%d8%aa%d9%8a%d9%86/",
+              "label": "<img decoding=\"async\" width=\"300\" height=\"300\" src=\"https://libsa.store/wp-content/uploads/2023/02/خانة-الفساتين-لقسم-النسائي-1-300x300.png\" class=\"elementor-animation-shrink attachment-medium size-medium wp-image-283\" alt=\"\" loading=\"lazy\" srcset=\"https://libsa.store/wp-content/uploads/2023/02/خانة-الفساتين-لقسم-النسائي-1-300x300.png 300w, https://libsa.store/wp-content/uploads/2023/02/elementor/thumbs/خانة-الفساتين-لقسم-النسائي-1-q2m80yjt1uqf2a6kv2na8cvy6ymgq86o1h9ix2tiog.png 200w, https://libsa.store/wp-content/uploads/2023/02/خانة-الفساتين-لقسم-النسائي-1-100x100.png 100w, https://libsa.store/wp-content/uploads/2023/02/خانة-الفساتين-لقسم-النسائي-1-400x400.png 400w, https://libsa.store/wp-content/uploads/2023/02/خانة-الفساتين-لقسم-النسائي-1-150x150.png 150w, https://libsa.store/wp-content/uploads/2023/02/خانة-الفساتين-لقسم-النسائي-1-768x768.png 768w, https://libsa.store/wp-content/uploads/2023/02/خانة-الفساتين-لقسم-النسائي-1.png 858w\" sizes=\"(max-width: 300px) 100vw, 300px\" />",
+              "subLinks": []
+            },
+            {
+              "url": "https://libsa.store/product-category/%d9%86%d8%b3%d8%a7%d8%a6%d9%8a/%d8%ae%d8%a7%d9%86%d8%a9-%d8%a7%d9%84%d8%ac%d8%a8%d8%a9/",
+              "label": "<img decoding=\"async\" width=\"300\" height=\"300\" src=\"https://libsa.store/wp-content/uploads/2023/02/خانة-الجبة-لقسم-النسائي-1-300x300.png\" class=\"elementor-animation-shrink attachment-medium size-medium wp-image-279\" alt=\"\" loading=\"lazy\" srcset=\"https://libsa.store/wp-content/uploads/2023/02/خانة-الجبة-لقسم-النسائي-1-300x300.png 300w, https://libsa.store/wp-content/uploads/2023/02/خانة-الجبة-لقسم-النسائي-1-200x200.png 200w, https://libsa.store/wp-content/uploads/2023/02/خانة-الجبة-لقسم-النسائي-1-100x100.png 100w, https://libsa.store/wp-content/uploads/2023/02/خانة-الجبة-لقسم-النسائي-1-400x400.png 400w, https://libsa.store/wp-content/uploads/2023/02/خانة-الجبة-لقسم-النسائي-1-1024x1024.png 1024w, https://libsa.store/wp-content/uploads/2023/02/خانة-الجبة-لقسم-النسائي-1-150x150.png 150w, https://libsa.store/wp-content/uploads/2023/02/خانة-الجبة-لقسم-النسائي-1-768x768.png 768w, https://libsa.store/wp-content/uploads/2023/02/خانة-الجبة-لقسم-النسائي-1-1536x1536.png 1536w, https://libsa.store/wp-content/uploads/2023/02/خانة-الجبة-لقسم-النسائي-1-2048x2048.png 2048w\" sizes=\"(max-width: 300px) 100vw, 300px\" />",
+              "subLinks": []
+            },
+            {
+              "url": "https://libsa.store/product-category/%d9%86%d8%b3%d8%a7%d8%a6%d9%8a/%d8%ae%d8%a7%d9%86%d8%a9-%d8%a7%d9%84%d8%b7%d9%82%d9%85-%d8%a7%d9%84%d9%86%d8%b3%d8%a7%d8%a6%d9%8a/",
+              "label": "<img decoding=\"async\" width=\"300\" height=\"300\" src=\"https://libsa.store/wp-content/uploads/2023/02/خانة-الطقم-النسائي-لقسم-النسائي-1-300x300.png\" class=\"elementor-animation-shrink attachment-medium size-medium wp-image-282\" alt=\"\" loading=\"lazy\" srcset=\"https://libsa.store/wp-content/uploads/2023/02/خانة-الطقم-النسائي-لقسم-النسائي-1-300x300.png 300w, https://libsa.store/wp-content/uploads/2023/02/خانة-الطقم-النسائي-لقسم-النسائي-1-200x200.png 200w, https://libsa.store/wp-content/uploads/2023/02/خانة-الطقم-النسائي-لقسم-النسائي-1-100x100.png 100w, https://libsa.store/wp-content/uploads/2023/02/خانة-الطقم-النسائي-لقسم-النسائي-1-400x400.png 400w, https://libsa.store/wp-content/uploads/2023/02/خانة-الطقم-النسائي-لقسم-النسائي-1-150x150.png 150w, https://libsa.store/wp-content/uploads/2023/02/خانة-الطقم-النسائي-لقسم-النسائي-1-768x768.png 768w, https://libsa.store/wp-content/uploads/2023/02/خانة-الطقم-النسائي-لقسم-النسائي-1.png 858w\" sizes=\"(max-width: 300px) 100vw, 300px\" />",
+              "subLinks": []
+            },
+            {
+              "url": "https://libsa.store/product-category/%d9%86%d8%b3%d8%a7%d8%a6%d9%8a/%d8%a7%d9%84%d9%85%d9%84%d8%a7%d8%a8%d8%b3-%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d8%a9/",
+              "label": "<img decoding=\"async\" width=\"300\" height=\"300\" src=\"https://libsa.store/wp-content/uploads/2023/02/خانة-الداخلي-لقسم-النسائي-1.png\" class=\"elementor-animation-shrink attachment-medium size-medium wp-image-281\" alt=\"\" loading=\"lazy\" srcset=\"https://libsa.store/wp-content/uploads/2023/02/خانة-الداخلي-لقسم-النسائي-1.png 3543w, https://libsa.store/wp-content/uploads/2023/02/خانة-الداخلي-لقسم-النسائي-1-200x200.png 200w, https://libsa.store/wp-content/uploads/2023/02/خانة-الداخلي-لقسم-النسائي-1-100x100.png 100w, https://libsa.store/wp-content/uploads/2023/02/خانة-الداخلي-لقسم-النسائي-1-400x400.png 400w\" sizes=\"(max-width: 300px) 100vw, 300px\" />",
+              "subLinks": []
+            },
+            {
+              "url": "https://libsa.store/product-category/%d9%86%d8%b3%d8%a7%d8%a6%d9%8a/%d8%ae%d8%a7%d9%86%d8%a9-%d8%a7%d9%84%d8%ad%d9%88%d8%a7%d9%85%d9%84/",
+              "label": "<img decoding=\"async\" width=\"300\" height=\"300\" src=\"https://libsa.store/wp-content/uploads/2023/02/خانة-الحوامل-لقسم-النسائي-1.png\" class=\"elementor-animation-shrink attachment-medium size-medium wp-image-280\" alt=\"\" loading=\"lazy\" srcset=\"https://libsa.store/wp-content/uploads/2023/02/خانة-الحوامل-لقسم-النسائي-1.png 3543w, https://libsa.store/wp-content/uploads/2023/02/خانة-الحوامل-لقسم-النسائي-1-200x200.png 200w, https://libsa.store/wp-content/uploads/2023/02/خانة-الحوامل-لقسم-النسائي-1-100x100.png 100w, https://libsa.store/wp-content/uploads/2023/02/خانة-الحوامل-لقسم-النسائي-1-400x400.png 400w\" sizes=\"(max-width: 300px) 100vw, 300px\" />",
+              "subLinks": []
+            },
+            {
+              "url": "https://libsa.store/product-category/%d9%86%d8%b3%d8%a7%d8%a6%d9%8a/%d8%ae%d8%a7%d9%86%d8%a9-%d8%a7%d9%84%d8%a8%d8%b4%d8%aa/",
+              "label": "<img decoding=\"async\" width=\"300\" height=\"300\" src=\"https://libsa.store/wp-content/uploads/2023/02/خانة-البشت-لقسم-النسائي-1.png\" class=\"elementor-animation-shrink attachment-medium size-medium wp-image-278\" alt=\"\" loading=\"lazy\" srcset=\"https://libsa.store/wp-content/uploads/2023/02/خانة-البشت-لقسم-النسائي-1.png 3543w, https://libsa.store/wp-content/uploads/2023/02/خانة-البشت-لقسم-النسائي-1-200x200.png 200w, https://libsa.store/wp-content/uploads/2023/02/خانة-البشت-لقسم-النسائي-1-100x100.png 100w, https://libsa.store/wp-content/uploads/2023/02/خانة-البشت-لقسم-النسائي-1-400x400.png 400w\" sizes=\"(max-width: 300px) 100vw, 300px\" />",
+              "subLinks": []
+            },
+            {
+              "url": "https://libsa.store/product-category/%d9%86%d8%b3%d8%a7%d8%a6%d9%8a/%d8%ae%d8%a7%d9%86%d8%a9-%d8%a7%d9%84%d8%a8%d8%af%d9%84%d8%a7%d8%aa/",
+              "label": "<img decoding=\"async\" width=\"300\" height=\"300\" src=\"https://libsa.store/wp-content/uploads/2023/02/خانة-البدلات-1-300x300.png\" class=\"elementor-animation-shrink attachment-medium size-medium wp-image-277\" alt=\"\" loading=\"lazy\" srcset=\"https://libsa.store/wp-content/uploads/2023/02/خانة-البدلات-1-300x300.png 300w, https://libsa.store/wp-content/uploads/2023/02/خانة-البدلات-1-200x200.png 200w, https://libsa.store/wp-content/uploads/2023/02/خانة-البدلات-1-100x100.png 100w, https://libsa.store/wp-content/uploads/2023/02/خانة-البدلات-1-400x400.png 400w, https://libsa.store/wp-content/uploads/2023/02/خانة-البدلات-1-1024x1024.png 1024w, https://libsa.store/wp-content/uploads/2023/02/خانة-البدلات-1-150x150.png 150w, https://libsa.store/wp-content/uploads/2023/02/خانة-البدلات-1-768x768.png 768w, https://libsa.store/wp-content/uploads/2023/02/خانة-البدلات-1-1536x1536.png 1536w, https://libsa.store/wp-content/uploads/2023/02/خانة-البدلات-1-2048x2048.png 2048w\" sizes=\"(max-width: 300px) 100vw, 300px\" />",
+              "subLinks": []
+            },
+            {
+              "url": "https://libsa.store/product-category/%d8%b1%d8%ac%d8%a7%d9%84%d9%8a/%d8%ae%d8%a7%d9%86%d8%a9-%d8%a7%d9%84%d9%82%d8%a7%d8%b7-%d9%88%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b7/",
+              "label": "<img decoding=\"async\" width=\"300\" height=\"300\" src=\"https://libsa.store/wp-content/uploads/2023/02/خانة-القاط-والرباط-لقسم-الرجالي-1.png\" class=\"elementor-animation-shrink attachment-medium size-medium wp-image-287\" alt=\"\" loading=\"lazy\" srcset=\"https://libsa.store/wp-content/uploads/2023/02/خانة-القاط-والرباط-لقسم-الرجالي-1.png 3543w, https://libsa.store/wp-content/uploads/2023/02/خانة-القاط-والرباط-لقسم-الرجالي-1-200x200.png 200w, https://libsa.store/wp-content/uploads/2023/02/خانة-القاط-والرباط-لقسم-الرجالي-1-100x100.png 100w, https://libsa.store/wp-content/uploads/2023/02/خانة-القاط-والرباط-لقسم-الرجالي-1-400x400.png 400w\" sizes=\"(max-width: 300px) 100vw, 300px\" />",
+              "subLinks": []
+            },
+            {
+              "url": "https://libsa.store/product-category/%d8%b1%d8%ac%d8%a7%d9%84%d9%8a/%d8%ae%d8%a7%d9%86%d8%a9-%d8%a7%d9%84%d9%85%d9%84%d8%a7%d8%a8%d8%b3-%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d8%a9/",
+              "label": "<img decoding=\"async\" width=\"300\" height=\"300\" src=\"https://libsa.store/wp-content/uploads/2023/02/خانة-الملابس-الداخلية-لقسم-الرجالي-300x300.png\" class=\"elementor-animation-shrink attachment-medium size-medium wp-image-288\" alt=\"\" loading=\"lazy\" srcset=\"https://libsa.store/wp-content/uploads/2023/02/خانة-الملابس-الداخلية-لقسم-الرجالي-300x300.png 300w, https://libsa.store/wp-content/uploads/2023/02/خانة-الملابس-الداخلية-لقسم-الرجالي-200x200.png 200w, https://libsa.store/wp-content/uploads/2023/02/خانة-الملابس-الداخلية-لقسم-الرجالي-100x100.png 100w, https://libsa.store/wp-content/uploads/2023/02/خانة-الملابس-الداخلية-لقسم-الرجالي-400x400.png 400w, https://libsa.store/wp-content/uploads/2023/02/خانة-الملابس-الداخلية-لقسم-الرجالي-150x150.png 150w, https://libsa.store/wp-content/uploads/2023/02/خانة-الملابس-الداخلية-لقسم-الرجالي-768x768.png 768w, https://libsa.store/wp-content/uploads/2023/02/خانة-الملابس-الداخلية-لقسم-الرجالي.png 858w\" sizes=\"(max-width: 300px) 100vw, 300px\" />",
+              "subLinks": []
+            },
+            {
+              "url": "https://libsa.store/product-category/%d8%b1%d8%ac%d8%a7%d9%84%d9%8a/%d8%ae%d8%a7%d9%86%d8%a9-%d8%a7%d9%84%d8%b7%d9%82%d9%85-%d8%a7%d9%84%d8%b1%d8%ac%d8%a7%d9%84%d9%8a/",
+              "label": "<img decoding=\"async\" width=\"300\" height=\"300\" src=\"https://libsa.store/wp-content/uploads/2023/02/خانة-الطقم-الرجالي-لقسم-الرجالي-300x300.png\" class=\"elementor-animation-shrink attachment-medium size-medium wp-image-286\" alt=\"\" loading=\"lazy\" srcset=\"https://libsa.store/wp-content/uploads/2023/02/خانة-الطقم-الرجالي-لقسم-الرجالي-300x300.png 300w, https://libsa.store/wp-content/uploads/2023/02/خانة-الطقم-الرجالي-لقسم-الرجالي-200x200.png 200w, https://libsa.store/wp-content/uploads/2023/02/خانة-الطقم-الرجالي-لقسم-الرجالي-100x100.png 100w, https://libsa.store/wp-content/uploads/2023/02/خانة-الطقم-الرجالي-لقسم-الرجالي-400x400.png 400w, https://libsa.store/wp-content/uploads/2023/02/خانة-الطقم-الرجالي-لقسم-الرجالي-150x150.png 150w, https://libsa.store/wp-content/uploads/2023/02/خانة-الطقم-الرجالي-لقسم-الرجالي-768x768.png 768w, https://libsa.store/wp-content/uploads/2023/02/خانة-الطقم-الرجالي-لقسم-الرجالي.png 858w\" sizes=\"(max-width: 300px) 100vw, 300px\" />",
+              "subLinks": []
+            },
+            {
+              "url": "https://libsa.store/product-category/%d8%b1%d8%ac%d8%a7%d9%84%d9%8a/%d8%ae%d8%a7%d9%86%d8%a9-%d8%a7%d9%84%d8%af%d8%b4%d8%af%d8%a7%d8%b4%d8%a9-%d9%88%d8%a7%d9%84%d8%b9%d9%83%d8%a7%d9%84/",
+              "label": "<img decoding=\"async\" width=\"300\" height=\"300\" src=\"https://libsa.store/wp-content/uploads/2023/02/خانة-الدشداشة-والعكال-لقسم-الرجالي.png\" class=\"elementor-animation-shrink attachment-medium size-medium wp-image-285\" alt=\"\" loading=\"lazy\" srcset=\"https://libsa.store/wp-content/uploads/2023/02/خانة-الدشداشة-والعكال-لقسم-الرجالي.png 3543w, https://libsa.store/wp-content/uploads/2023/02/خانة-الدشداشة-والعكال-لقسم-الرجالي-200x200.png 200w, https://libsa.store/wp-content/uploads/2023/02/خانة-الدشداشة-والعكال-لقسم-الرجالي-100x100.png 100w, https://libsa.store/wp-content/uploads/2023/02/خانة-الدشداشة-والعكال-لقسم-الرجالي-400x400.png 400w\" sizes=\"(max-width: 300px) 100vw, 300px\" />",
+              "subLinks": []
+            },
+            {
+              "url": "https://libsa.store/product-category/%d8%a7%d8%ad%d8%b0%d9%8a%d8%a9-%d9%88%d8%ad%d9%82%d8%a7%d8%a6%d8%a8/%d8%ae%d8%a7%d9%86%d8%a9-%d8%a7%d9%84%d8%a7%d8%ad%d8%b2%d9%85%d8%a9/",
+              "label": "<img decoding=\"async\" width=\"300\" height=\"300\" src=\"https://libsa.store/wp-content/uploads/2023/02/خانة-الاحزمة-لقسم-الحقائب-والاحذية.png\" class=\"elementor-animation-shrink attachment-medium size-medium wp-image-293\" alt=\"\" loading=\"lazy\" srcset=\"https://libsa.store/wp-content/uploads/2023/02/خانة-الاحزمة-لقسم-الحقائب-والاحذية.png 3543w, https://libsa.store/wp-content/uploads/2023/02/خانة-الاحزمة-لقسم-الحقائب-والاحذية-200x200.png 200w, https://libsa.store/wp-content/uploads/2023/02/خانة-الاحزمة-لقسم-الحقائب-والاحذية-100x100.png 100w, https://libsa.store/wp-content/uploads/2023/02/خانة-الاحزمة-لقسم-الحقائب-والاحذية-400x400.png 400w\" sizes=\"(max-width: 300px) 100vw, 300px\" />",
+              "subLinks": []
+            },
+            {
+              "url": "https://libsa.store/product-category/%d8%a7%d8%ad%d8%b0%d9%8a%d8%a9-%d9%88%d8%ad%d9%82%d8%a7%d8%a6%d8%a8/%d8%ae%d8%a7%d9%86%d8%a9-%d8%a7%d9%84%d8%b3%d8%a7%d8%b9%d8%a7%d8%aa/",
+              "label": "<img decoding=\"async\" width=\"300\" height=\"300\" src=\"https://libsa.store/wp-content/uploads/2023/03/خانة-الساعات-لقسم-حرف-وفنون-1-2.png\" class=\"elementor-animation-shrink attachment-medium size-medium wp-image-699\" alt=\"\" loading=\"lazy\" srcset=\"https://libsa.store/wp-content/uploads/2023/03/خانة-الساعات-لقسم-حرف-وفنون-1-2.png 3077w, https://libsa.store/wp-content/uploads/2023/03/خانة-الساعات-لقسم-حرف-وفنون-1-2-200x200.png 200w, https://libsa.store/wp-content/uploads/2023/03/خانة-الساعات-لقسم-حرف-وفنون-1-2-100x100.png 100w, https://libsa.store/wp-content/uploads/2023/03/خانة-الساعات-لقسم-حرف-وفنون-1-2-400x398.png 400w, https://libsa.store/wp-content/uploads/2023/03/خانة-الساعات-لقسم-حرف-وفنون-1-2-1536x1536.png 1536w, https://libsa.store/wp-content/uploads/2023/03/خانة-الساعات-لقسم-حرف-وفنون-1-2-2048x2048.png 2048w\" sizes=\"(max-width: 300px) 100vw, 300px\" />",
+              "subLinks": []
+            },
+            {
+              "url": "https://libsa.store/product-category/%d8%a7%d8%ad%d8%b0%d9%8a%d8%a9-%d9%88%d8%ad%d9%82%d8%a7%d8%a6%d8%a8/%d8%ae%d8%a7%d9%86%d8%a9-%d8%a7%d9%84%d8%ad%d9%82%d8%a7%d8%a6%d8%a8/",
+              "label": "<img decoding=\"async\" width=\"300\" height=\"300\" src=\"https://libsa.store/wp-content/uploads/2023/02/خانة-الحقائب-لقسم-الحقائب-والاحذية-300x300.png\" class=\"elementor-animation-shrink attachment-medium size-medium wp-image-295\" alt=\"\" loading=\"lazy\" srcset=\"https://libsa.store/wp-content/uploads/2023/02/خانة-الحقائب-لقسم-الحقائب-والاحذية-300x300.png 300w, https://libsa.store/wp-content/uploads/2023/02/خانة-الحقائب-لقسم-الحقائب-والاحذية-200x200.png 200w, https://libsa.store/wp-content/uploads/2023/02/خانة-الحقائب-لقسم-الحقائب-والاحذية-100x100.png 100w, https://libsa.store/wp-content/uploads/2023/02/خانة-الحقائب-لقسم-الحقائب-والاحذية-400x400.png 400w, https://libsa.store/wp-content/uploads/2023/02/خانة-الحقائب-لقسم-الحقائب-والاحذية-1024x1024.png 1024w, https://libsa.store/wp-content/uploads/2023/02/خانة-الحقائب-لقسم-الحقائب-والاحذية-150x150.png 150w, https://libsa.store/wp-content/uploads/2023/02/خانة-الحقائب-لقسم-الحقائب-والاحذية-768x768.png 768w, https://libsa.store/wp-content/uploads/2023/02/خانة-الحقائب-لقسم-الحقائب-والاحذية-1536x1536.png 1536w, https://libsa.store/wp-content/uploads/2023/02/خانة-الحقائب-لقسم-الحقائب-والاحذية-2048x2048.png 2048w\" sizes=\"(max-width: 300px) 100vw, 300px\" />",
+              "subLinks": []
+            },
+            {
+              "url": "https://libsa.store/product-category/%d8%a7%d8%ad%d8%b0%d9%8a%d8%a9-%d9%88%d8%ad%d9%82%d8%a7%d8%a6%d8%a8/%d8%ae%d8%a7%d9%86%d8%a9-%d8%a7%d9%84%d8%b4%d8%a7%d9%84%d8%a7%d8%aa/",
+              "label": "<img decoding=\"async\" width=\"300\" height=\"300\" src=\"https://libsa.store/wp-content/uploads/2023/02/خانة-الشالات-لقسم-الحقائب-والاحذية-1-300x300.png\" class=\"elementor-animation-shrink attachment-medium size-medium wp-image-297\" alt=\"\" loading=\"lazy\" srcset=\"https://libsa.store/wp-content/uploads/2023/02/خانة-الشالات-لقسم-الحقائب-والاحذية-1-300x300.png 300w, https://libsa.store/wp-content/uploads/2023/02/خانة-الشالات-لقسم-الحقائب-والاحذية-1-200x200.png 200w, https://libsa.store/wp-content/uploads/2023/02/خانة-الشالات-لقسم-الحقائب-والاحذية-1-100x100.png 100w, https://libsa.store/wp-content/uploads/2023/02/خانة-الشالات-لقسم-الحقائب-والاحذية-1-400x400.png 400w, https://libsa.store/wp-content/uploads/2023/02/خانة-الشالات-لقسم-الحقائب-والاحذية-1-1024x1024.png 1024w, https://libsa.store/wp-content/uploads/2023/02/خانة-الشالات-لقسم-الحقائب-والاحذية-1-150x150.png 150w, https://libsa.store/wp-content/uploads/2023/02/خانة-الشالات-لقسم-الحقائب-والاحذية-1-768x768.png 768w, https://libsa.store/wp-content/uploads/2023/02/خانة-الشالات-لقسم-الحقائب-والاحذية-1-1536x1536.png 1536w, https://libsa.store/wp-content/uploads/2023/02/خانة-الشالات-لقسم-الحقائب-والاحذية-1-2048x2048.png 2048w\" sizes=\"(max-width: 300px) 100vw, 300px\" />",
+              "subLinks": []
+            },
+            {
+              "url": "https://libsa.store/product-category/%d8%ad%d8%b1%d9%81-%d9%88%d8%a7%d9%84%d9%81%d9%86%d9%88%d9%86/%d8%ae%d8%a7%d9%86%d8%a9-%d9%81%d9%86%d9%88%d9%86%d9%86%d8%a7/",
+              "label": "<img decoding=\"async\" width=\"300\" height=\"300\" src=\"https://libsa.store/wp-content/uploads/2023/02/خانة-فنونا-لقسم-حرف-وفنون-300x300.png\" class=\"elementor-animation-shrink attachment-medium size-medium wp-image-302\" alt=\"\" loading=\"lazy\" srcset=\"https://libsa.store/wp-content/uploads/2023/02/خانة-فنونا-لقسم-حرف-وفنون-300x300.png 300w, https://libsa.store/wp-content/uploads/2023/02/خانة-فنونا-لقسم-حرف-وفنون-200x200.png 200w, https://libsa.store/wp-content/uploads/2023/02/خانة-فنونا-لقسم-حرف-وفنون-100x100.png 100w, https://libsa.store/wp-content/uploads/2023/02/خانة-فنونا-لقسم-حرف-وفنون-400x400.png 400w, https://libsa.store/wp-content/uploads/2023/02/خانة-فنونا-لقسم-حرف-وفنون-1024x1024.png 1024w, https://libsa.store/wp-content/uploads/2023/02/خانة-فنونا-لقسم-حرف-وفنون-150x150.png 150w, https://libsa.store/wp-content/uploads/2023/02/خانة-فنونا-لقسم-حرف-وفنون-768x768.png 768w, https://libsa.store/wp-content/uploads/2023/02/خانة-فنونا-لقسم-حرف-وفنون-1536x1536.png 1536w, https://libsa.store/wp-content/uploads/2023/02/خانة-فنونا-لقسم-حرف-وفنون-2048x2048.png 2048w\" sizes=\"(max-width: 300px) 100vw, 300px\" />",
+              "subLinks": []
+            },
+            {
+              "url": "https://libsa.store/product-category/%d8%ad%d8%b1%d9%81-%d9%88%d8%a7%d9%84%d9%81%d9%86%d9%88%d9%86/%d8%ae%d8%a7%d9%86%d8%a9-%d8%a7%d9%84%d9%88%d8%b1%d9%88%d8%af/",
+              "label": "<img decoding=\"async\" width=\"300\" height=\"300\" src=\"https://libsa.store/wp-content/uploads/2023/02/خانة-الورود-لقسم-حرف-وفنون-300x300.png\" class=\"elementor-animation-shrink attachment-medium size-medium wp-image-301\" alt=\"\" loading=\"lazy\" srcset=\"https://libsa.store/wp-content/uploads/2023/02/خانة-الورود-لقسم-حرف-وفنون-300x300.png 300w, https://libsa.store/wp-content/uploads/2023/02/خانة-الورود-لقسم-حرف-وفنون-200x200.png 200w, https://libsa.store/wp-content/uploads/2023/02/خانة-الورود-لقسم-حرف-وفنون-100x100.png 100w, https://libsa.store/wp-content/uploads/2023/02/خانة-الورود-لقسم-حرف-وفنون-400x400.png 400w, https://libsa.store/wp-content/uploads/2023/02/خانة-الورود-لقسم-حرف-وفنون-1024x1024.png 1024w, https://libsa.store/wp-content/uploads/2023/02/خانة-الورود-لقسم-حرف-وفنون-150x150.png 150w, https://libsa.store/wp-content/uploads/2023/02/خانة-الورود-لقسم-حرف-وفنون-768x768.png 768w, https://libsa.store/wp-content/uploads/2023/02/خانة-الورود-لقسم-حرف-وفنون-1536x1536.png 1536w, https://libsa.store/wp-content/uploads/2023/02/خانة-الورود-لقسم-حرف-وفنون-2048x2048.png 2048w\" sizes=\"(max-width: 300px) 100vw, 300px\" />",
+              "subLinks": []
+            },
+            {
+              "url": "https://libsa.store/product-category/%d8%ad%d8%b1%d9%81-%d9%88%d8%a7%d9%84%d9%81%d9%86%d9%88%d9%86/%d8%ae%d8%a7%d9%86%d8%a9-%d8%a7%d9%84%d8%b4%d9%85%d9%88%d8%b9/",
+              "label": "<img decoding=\"async\" width=\"300\" height=\"300\" src=\"https://libsa.store/wp-content/uploads/2023/02/خانة-الشموع-لقسم-حرف-وفنون.png\" class=\"elementor-animation-shrink attachment-medium size-medium wp-image-300\" alt=\"\" loading=\"lazy\" srcset=\"https://libsa.store/wp-content/uploads/2023/02/خانة-الشموع-لقسم-حرف-وفنون.png 3543w, https://libsa.store/wp-content/uploads/2023/02/خانة-الشموع-لقسم-حرف-وفنون-200x200.png 200w, https://libsa.store/wp-content/uploads/2023/02/خانة-الشموع-لقسم-حرف-وفنون-100x100.png 100w, https://libsa.store/wp-content/uploads/2023/02/خانة-الشموع-لقسم-حرف-وفنون-400x400.png 400w\" sizes=\"(max-width: 300px) 100vw, 300px\" />",
+              "subLinks": []
+            },
+            {
+              "url": "https://libsa.store/product-category/%d8%ad%d8%b1%d9%81-%d9%88%d8%a7%d9%84%d9%81%d9%86%d9%88%d9%86/%d8%ae%d8%a7%d9%86%d8%a9-%d8%a7%d9%84%d8%aa%d9%88%d8%b2%d9%8a%d8%b9%d8%a7%d8%aa/",
+              "label": "<img decoding=\"async\" width=\"300\" height=\"300\" src=\"https://libsa.store/wp-content/uploads/2023/02/خانة-التوزيعات-لقسم-حرف-وفنون.png\" class=\"elementor-animation-shrink attachment-medium size-medium wp-image-299\" alt=\"\" loading=\"lazy\" srcset=\"https://libsa.store/wp-content/uploads/2023/02/خانة-التوزيعات-لقسم-حرف-وفنون.png 3543w, https://libsa.store/wp-content/uploads/2023/02/خانة-التوزيعات-لقسم-حرف-وفنون-200x200.png 200w, https://libsa.store/wp-content/uploads/2023/02/خانة-التوزيعات-لقسم-حرف-وفنون-100x100.png 100w, https://libsa.store/wp-content/uploads/2023/02/خانة-التوزيعات-لقسم-حرف-وفنون-400x400.png 400w\" sizes=\"(max-width: 300px) 100vw, 300px\" />",
+              "subLinks": []
+            },
+            {
+              "url": "https://libsa.store/product-category/%d9%82%d8%b3%d9%85-%d8%a7%d9%84%d8%b9%d8%b7%d9%88%d8%b1-%d9%88%d8%a7%d9%84%d8%a8%d8%ae%d9%88%d8%b1/",
+              "label": "<img decoding=\"async\" width=\"300\" height=\"300\" src=\"https://libsa.store/wp-content/uploads/2023/02/قسم-وخانة-العطور-والبخور.png\" class=\"elementor-animation-shrink attachment-medium size-medium wp-image-303\" alt=\"\" loading=\"lazy\" srcset=\"https://libsa.store/wp-content/uploads/2023/02/قسم-وخانة-العطور-والبخور.png 3543w, https://libsa.store/wp-content/uploads/2023/02/قسم-وخانة-العطور-والبخور-200x200.png 200w, https://libsa.store/wp-content/uploads/2023/02/قسم-وخانة-العطور-والبخور-100x100.png 100w, https://libsa.store/wp-content/uploads/2023/02/قسم-وخانة-العطور-والبخور-400x400.png 400w\" sizes=\"(max-width: 300px) 100vw, 300px\" />",
+              "subLinks": []
+            },
+            {
+              "url": "https://libsa.store/product-category/%d8%a7%d9%84%d8%a8%d9%8a%d8%aa/%d8%ae%d8%a7%d9%86%d8%a9-%d8%a7%d9%84%d9%85%d9%81%d8%b1%d9%88%d8%b4%d8%a7%d8%aa/",
+              "label": "<img decoding=\"async\" width=\"300\" height=\"300\" src=\"https://libsa.store/wp-content/uploads/2023/02/خانة-المفروشات-لقسم-البيت.png\" class=\"elementor-animation-shrink attachment-medium size-medium wp-image-306\" alt=\"\" loading=\"lazy\" srcset=\"https://libsa.store/wp-content/uploads/2023/02/خانة-المفروشات-لقسم-البيت.png 3543w, https://libsa.store/wp-content/uploads/2023/02/خانة-المفروشات-لقسم-البيت-200x200.png 200w, https://libsa.store/wp-content/uploads/2023/02/خانة-المفروشات-لقسم-البيت-100x100.png 100w, https://libsa.store/wp-content/uploads/2023/02/خانة-المفروشات-لقسم-البيت-400x400.png 400w\" sizes=\"(max-width: 300px) 100vw, 300px\" />",
+              "subLinks": []
+            },
+            {
+              "url": "https://libsa.store/product-category/%d8%a7%d9%84%d8%a8%d9%8a%d8%aa/%d8%ae%d8%a7%d9%86%d8%a9-%d8%a7%d9%84%d8%af%d9%8a%d9%83%d9%88%d8%b1%d8%a7%d8%aa/",
+              "label": "<img decoding=\"async\" width=\"300\" height=\"300\" src=\"https://libsa.store/wp-content/uploads/2023/02/خانة-الديكورات-لقسم-البيت-1.png\" class=\"elementor-animation-shrink attachment-medium size-medium wp-image-305\" alt=\"\" loading=\"lazy\" srcset=\"https://libsa.store/wp-content/uploads/2023/02/خانة-الديكورات-لقسم-البيت-1.png 3543w, https://libsa.store/wp-content/uploads/2023/02/خانة-الديكورات-لقسم-البيت-1-200x200.png 200w, https://libsa.store/wp-content/uploads/2023/02/خانة-الديكورات-لقسم-البيت-1-100x100.png 100w, https://libsa.store/wp-content/uploads/2023/02/خانة-الديكورات-لقسم-البيت-1-400x400.png 400w\" sizes=\"(max-width: 300px) 100vw, 300px\" />",
+              "subLinks": []
+            },
+            {
+              "url": "https://libsa.store/product-category/%d8%a7%d9%84%d8%a8%d9%8a%d8%aa/%d8%ae%d8%a7%d9%86%d8%a9-%d8%a7%d9%84%d8%a7%d8%ab%d8%a7%d8%ab/",
+              "label": "<img decoding=\"async\" width=\"300\" height=\"300\" src=\"https://libsa.store/wp-content/uploads/2023/02/خانة-الاثاث-لقسم-البيت-1-300x300.png\" class=\"elementor-animation-shrink attachment-medium size-medium wp-image-304\" alt=\"\" loading=\"lazy\" srcset=\"https://libsa.store/wp-content/uploads/2023/02/خانة-الاثاث-لقسم-البيت-1-300x300.png 300w, https://libsa.store/wp-content/uploads/2023/02/خانة-الاثاث-لقسم-البيت-1-200x200.png 200w, https://libsa.store/wp-content/uploads/2023/02/خانة-الاثاث-لقسم-البيت-1-100x100.png 100w, https://libsa.store/wp-content/uploads/2023/02/خانة-الاثاث-لقسم-البيت-1-400x400.png 400w, https://libsa.store/wp-content/uploads/2023/02/خانة-الاثاث-لقسم-البيت-1-1024x1024.png 1024w, https://libsa.store/wp-content/uploads/2023/02/خانة-الاثاث-لقسم-البيت-1-150x150.png 150w, https://libsa.store/wp-content/uploads/2023/02/خانة-الاثاث-لقسم-البيت-1-768x768.png 768w, https://libsa.store/wp-content/uploads/2023/02/خانة-الاثاث-لقسم-البيت-1-1536x1536.png 1536w, https://libsa.store/wp-content/uploads/2023/02/خانة-الاثاث-لقسم-البيت-1-2048x2048.png 2048w\" sizes=\"(max-width: 300px) 100vw, 300px\" />",
+              "subLinks": []
+            },
+            {
+              "url": "https://play.google.com/store/apps/details?id=com.w_17132476",
+              "label": "<img decoding=\"async\" width=\"300\" height=\"116\" src=\"https://libsa.store/wp-content/uploads/2023/06/en_badge_web_generic-300x116.png\" class=\"attachment-medium size-medium wp-image-4344\" alt=\"\" loading=\"lazy\" srcset=\"https://libsa.store/wp-content/uploads/2023/06/en_badge_web_generic-300x116.png 300w, https://libsa.store/wp-content/uploads/2023/06/en_badge_web_generic-400x155.png 400w, https://libsa.store/wp-content/uploads/2023/06/en_badge_web_generic.png 646w\" sizes=\"(max-width: 300px) 100vw, 300px\" />",
+              "subLinks": []
+            },
+            {
+              "url": "https://libsa.store/privacy-policy/",
+              "label": "سياسة الخصوصية والدفع",
+              "subLinks": []
+            },
+            {
+              "url": "https://libsa.store/%d8%b3%d8%ac%d9%84-%d9%88%d9%8a%d8%a7%d9%86%d8%a9-%d9%83%d9%80%d9%85%d8%b2%d9%88%d8%af/",
+              "label": "سجل ويانة كــمزود",
+              "subLinks": []
+            },
+            {
+              "url": "https://libsa.store/%d9%85%d9%86%d9%88-%d8%a7%d8%ad%d9%86%d8%a9%d8%9f/",
+              "label": "مــــن نحــن",
+              "subLinks": []
+            },
+            {
+              "url": "https://instagram.com/amer_al_jazie?igshid=OGQ2MjdiOTE=",
+              "label": "Icons by amer al jazie",
+              "subLinks": []
+            },
+            {
+              "url": "https://www.facebook.com/profile.php?id=100085856903838&mibextid=LQQJ4d",
+              "label": "Facebook",
+              "subLinks": []
+            },
+            {
+              "url": "https://www.instagram.com/libsa.iq/",
+              "label": "Instagram",
+              "subLinks": []
+            },
+            {
+              "url": "https://wa.link/zrbr7w",
+              "label": "Whatsapp",
+              "subLinks": []
+            },
+            {
+              "url": "https://www.tiktok.com/@libsa.iq",
+              "label": "Tiktok",
+              "subLinks": []
+            },
+            {
+              "url": "mailto:libsa.iq@gmail.com",
+              "label": "Icon-mail",
+              "subLinks": []
+            },
+            {
+              "url": "https://libsa.store/#",
+              "label": "هل نسيت كلمة السر؟",
+              "subLinks": []
+            },
+            {
+              "url": "javascript:void(0)",
+              "label": "Back",
+              "subLinks": []
+            }
+          ],
+          "name": "default"
+        }
+      ]
+    },
+    "regexInternalExternal": {
+      "rules": [
+        {
+          "internal": false,
+          "label": "Non-web links",
+          "regex": "^(?!https?://).*"
+        },
+        {
+          "internal": false,
+          "label": "Facebook",
+          "regex": "https?://([-\\w]+\\.)*facebook\\.com.*"
+        },
+        {
+          "internal": false,
+          "label": "Twitter",
+          "regex": "https?://([-\\w]+\\.)*twitter\\.com/.*"
+        },
+        {
+          "internal": false,
+          "label": "Instagram",
+          "regex": "https?://([-\\w]+\\.)*instagram\\.com/.*"
+        },
+        {
+          "internal": false,
+          "label": "Google Maps",
+          "regex": "https?://maps\\.google\\.com.*"
+        },
+        {
+          "internal": false,
+          "label": "Google Maps Search",
+          "regex": "https?://([-\\w]+\\.)*google\\.com/maps/search/.*"
+        },
+        {
+          "internal": false,
+          "label": "LinkedIn",
+          "regex": "https?://([-\\w]+\\.)*linkedin\\.com/.*"
+        },
+        {
+          "internal": true,
+          "label": "All Other Links",
+          "regex": ".*"
+        }
+      ],
+      "active": true
+    },
+    "androidPullToRefresh": false,
+    "iosPullToRefresh": true,
+    "navigationTitles": {
+      "titles": [],
+      "active": true
+    },
+    "ignorePageFinishedRegexes": [],
+    "actionConfig": {
+      "actions": [],
+      "actionSelection": [],
+      "active": true
+    },
+    "androidShowRefreshButton": false,
+    "iosShowRefreshButton": false,
+    "deepLinkDomains": {
+      "domains": [],
+      "enableAndroidApplinks": false
+    },
+    "navigationLevels": {
+      "levels": [],
+      "active": true
+    },
+    "toolbarNavigation": {
+      "enabled": true,
+      "visibilityByPages": "allPages",
+      "visibilityByBackButton": "backButtonActive",
+      "regexes": [
+        {
+          "enabled": true,
+          "regex": ".*"
+        }
+      ],
+      "items": [
+        {
+          "system": "back",
+          "titleType": "defaultText",
+          "visibility": "allPages",
+          "urlRegex": [
+            {
+              "enabled": true,
+              "regex": ".*"
+            }
+          ]
+        },
+        {
+          "system": "refresh",
+          "enabled": false,
+          "visibility": "allPages",
+          "urlRegex": [
+            {
+              "enabled": true,
+              "regex": ".*"
+            }
+          ]
+        },
+        {
+          "system": "forward",
+          "enabled": false,
+          "titleType": "defaultText",
+          "visibility": "allPages",
+          "urlRegex": [
+            {
+              "enabled": true,
+              "regex": ".*"
+            }
+          ]
+        }
+      ],
+      "v2": true
+    },
+    "redirects": [],
+    "iosShowOfflinePage": true,
+    "iosConnectionOfflineTime": 10,
+    "androidShowOfflinePage": true,
+    "androidConnectionOfflineTime": 10,
+    "maxWindows": {
+      "enabled": false,
+      "numWindows": 5,
+      "autoClose": false
+    },
+    "iosOfflinePageHtml": "",
+    "androidOfflinePageHtml": "",
+    "offlinePageHtml": "",
+    "iosSettings": {}
+  },
+  "styling": {
+    "iosLaunchScreen": {
+      "backgroundColor": "#FFFFFF",
+      "backgroundColorDark": "#1E496E",
+      "backgroundImage": "https://s3.amazonaws.com/gonativeio/images_generated/1690376704105_6atbgwbj1hw6y_FFFFFF_1_2x2.png",
+      "backgroundImageDark": "https://s3.amazonaws.com/gonativeio/images_generated/1690376704166_atvtuqbf02xym_1E496E_1_2x2.png",
+      "centerImage": "https://gonativeio.s3.amazonaws.com/uploads/zbcdhepw1vyv8_1690376372323.png",
+      "centerImageDark": "https://gonativeio.s3.amazonaws.com/uploads/zbcdhepw1vyv8_1690376372323.png"
+    },
+    "transitionInteractiveDelayMax": 0.2,
+    "menuAnimationDuration": 0.15,
+    "androidShowSplash": true,
+    "disableAnimations": false,
+    "hideWebviewAlpha": 0.5,
+    "iosDarkMode": "auto",
+    "iosTitleColor": "#333333",
+    "iosTitleColorDark": "#adc5dc",
+    "iosTintColor": "#007aff",
+    "iosTintColorDark": "#adc5dc",
+    "iosSidebarTextColor": "#333333",
+    "iosSidebarTextColorDark": "#adc5dc",
+    "iosStatusBarBackgroundColor": "#ffffffff",
+    "iosStatusBarBackgroundColorDark": "#000000",
+    "iosEnableBlurInStatusBar": false,
+    "iosSidebarBackgroundColor": "#f8f8f8",
+    "iosSidebarBackgroundColorDark": "#333333",
+    "iosNavigationBarTintColor": "#f8f8f8",
+    "iosNavigationBarTintColorDark": "#333333",
+    "iosTabBarTintColor": "#f8f8f8",
+    "iosTabBarTintColorDark": "#333333",
+    "icon": "https://gonativeio.s3.amazonaws.com/uploads/zbcdhepw1vyv8_1690376372323.png",
+    "iosHeaderImage": "https://gonativeio.s3.amazonaws.com/uploads/zbcdhepw1vyv8_1690376372323.png",
+    "showActionBar": false,
+    "showNavigationBar": false,
+    "iosSidebarFont": "Default",
+    "androidHideTitleInActionBar": false,
+    "navigationTitleImage": false,
+    "iosTheme": "default",
+    "androidTheme": "auto",
+    "androidBackgroundColor": "#FFFFFF",
+    "androidSidebarBackgroundColor": "#FFFFFF",
+    "androidSidebarForegroundColor": "#1E496E",
+    "androidActionBarBackgroundColor": "#FFFFFF",
+    "androidActionBarForegroundColor": "#1E496E",
+    "androidPullToRefreshColor": "#1E496E",
+    "androidAccentColor": "#009688",
+    "androidSidebarSeparatorColor": "#CCCCCC",
+    "androidSidebarHighlightColor": "#1E496E",
+    "androidTabBarBackgroundColor": "#FFFFFF",
+    "androidTabBarTextColor": "#949494",
+    "androidTabBarIndicatorColor": "#1E496E",
+    "androidTabPressedBackgroundColor": "#CCCCCC",
+    "androidStatusBarBackgroundColor": "#5C5C5C",
+    "androidShowLogoInSideBar": true,
+    "androidShowAppNameInSideBar": true,
+    "androidSwipeNavigationBackgroundColor": "#FFFFFF",
+    "androidSwipeNavigationActiveColor": "#000000",
+    "androidSwipeNavigationInactiveColor": "#666666",
+    "androidActionBarBackgroundColorDark": "#333333",
+    "androidStatusBarBackgroundColorDark": "#333333",
+    "androidActionBarForegroundColorDark": "#FFFFFF",
+    "androidAccentColorDark": "#80cbc4",
+    "androidBackgroundColorDark": "#333333",
+    "androidSidebarForegroundColorDark": "#FFFFFF",
+    "androidSidebarBackgroundColorDark": "#333333",
+    "androidSidebarSeparatorColorDark": "#666666",
+    "androidSidebarHighlightColorDark": "#FFFFFF",
+    "androidPullToRefreshColorDark": "#FFFFFF",
+    "androidTabBarTextColorDark": "#FFFFFF",
+    "androidTabBarBackgroundColorDark": "#333333",
+    "androidTabBarIndicatorColorDark": "#666666",
+    "androidTabPressedBackgroundColorDark": "#999999",
+    "androidSwipeNavigationBackgroundColorDark": "#333333",
+    "androidSwipeNavigationActiveColorDark": "#FFFFFF",
+    "androidSwipeNavigationInactiveColorDark": "#666666",
+    "androidSplashBackgroundColor": "#FFFFFF",
+    "androidSplashBackgroundColorDark": "#1E496E",
+    "androidWebviewTextZoom": null,
+    "iosIcon": "https://gonativeio.s3.amazonaws.com/uploads/zbcdhepw1vyv8_1690376372323.png",
+    "iosStatusBarStyle": "auto",
+    "iosEnableOverlayInStatusBar": false,
+    "androidStatusBarStyle": "auto",
+    "androidEnableOverlayInStatusBar": false,
+    "androidIcon": "https://gonativeio.s3.amazonaws.com/uploads/53g502rdv9tfg_1690376308666.png",
+    "navigationTitleImageLocation": "assets/defaults/logo1_white_padded.png",
+    "navigationTitleImageLocationDark": "assets/defaults/logo1_white_padded.png",
+    "androidHeaderImage": "assets/defaults/logo1_white_padded.png",
+    "androidHeaderImageDark": "assets/defaults/logo1_white_padded.png",
+    "iosHeaderImageDark": "https://gonativeio.s3.amazonaws.com/uploads/zbcdhepw1vyv8_1690376372323.png",
+    "androidLaunchImages": {
+      "mdpi": "https://s3.amazonaws.com/gonativeio/images_generated/1690376704762_3qxdayqka72z0_180x180.9.png",
+      "hdpi": "https://s3.amazonaws.com/gonativeio/images_generated/1690376704788_nz624jhbq2130_270x270.9.png",
+      "xhdpi": "https://s3.amazonaws.com/gonativeio/images_generated/1690376704809_fvfu6t7z1a39g_360x360.9.png",
+      "xxhdpi": "https://s3.amazonaws.com/gonativeio/images_generated/1690376704886_web6refkddcvw_540x540.9.png",
+      "xxxhdpi": "https://s3.amazonaws.com/gonativeio/images_generated/1690376704937_4hcnbabxuuy8y_720x720.9.png"
+    },
+    "androidLaunchImagesDark": {
+      "mdpi": "https://s3.amazonaws.com/gonativeio/images_generated/1690376705045_pmu5fdqct3nxm_180x180.9.png",
+      "hdpi": "https://s3.amazonaws.com/gonativeio/images_generated/1690376705138_99cnj3r1hmn7w_270x270.9.png",
+      "xhdpi": "https://s3.amazonaws.com/gonativeio/images_generated/1690376705220_jj4y83j8g8ce0_360x360.9.png",
+      "xxhdpi": "https://s3.amazonaws.com/gonativeio/images_generated/1690376705316_nx5bu1638wvxe_540x540.9.png",
+      "xxxhdpi": "https://s3.amazonaws.com/gonativeio/images_generated/1690376705435_76mrgg21h403c_720x720.9.png"
+    }
+  },
+  "permissions": {
+    "usesGeolocation": true,
+    "androidDownloadToPublicStorage": false,
+    "enableWebRTC": false,
+    "iosLocationUsageDescription": "لبسة – نحتاج نوصل لموقعك الجغرافي حتى نوصلك الطلبية :)",
+    "iosCameraUsageDescription": "لبسة – نحتاج نوصل للكاميرا  :)",
+    "iOSATTUserTrackingDescription": "",
+    "iOSRequestATTConsentOnLoad": false
+  },
+  "developmentTools": {
+    "enableWebConsoleLogs": false
+  },
+  "services": {
+    "oneSignal": {
+      "active": false
+    }
+  }
+}
