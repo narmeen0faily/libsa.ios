@@ -1,7 +1,7 @@
 gonative-ios
 ============
 
-This is the native IOS code used by https://gonative.io/
+This is the native IOS code 
 
 It allows the creation of apps from existing mobile-optimized websites.
 
